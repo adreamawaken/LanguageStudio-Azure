@@ -4,10 +4,6 @@ O **Azure Machine Learning Studio** é uma plataforma baseada em nuvem da Micros
 
 [Azure ML Studio](https://learn.microsoft.com/en-us/azure/machine-learning/media/overview/azure-ml-studio.png)
 
-## 🚀 Acesse a plataforma
-
-👉 [Clique aqui para acessar o Azure ML Studio](https://ml.azure.com)
-
 ---
 
 ## ✨ Principais recursos
@@ -28,7 +24,7 @@ O **Azure Machine Learning Studio** é uma plataforma baseada em nuvem da Micros
 
 ## 🧠 Exemplo de interface
 
-![Exemplo Azure ML](https://learn.microsoft.com/en-us/azure/machine-learning/media/overview/azure-machine-learning-ui.png)
+[Exemplo Azure ML](https://learn.microsoft.com/en-us/azure/machine-learning/media/overview/azure-machine-learning-ui.png)
 
 ---
 
