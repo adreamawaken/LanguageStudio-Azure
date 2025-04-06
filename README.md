@@ -2,7 +2,7 @@
 
 O **Azure Machine Learning Studio** é uma plataforma baseada em nuvem da Microsoft que permite construir, treinar e implantar modelos de machine learning de forma visual e colaborativa.
 
-![Azure ML Studio](https://learn.microsoft.com/en-us/azure/machine-learning/media/overview/azure-ml-studio.png)
+[Azure ML Studio](https://learn.microsoft.com/en-us/azure/machine-learning/media/overview/azure-ml-studio.png)
 
 ## 🚀 Acesse a plataforma
 
